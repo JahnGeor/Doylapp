@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img.qrc</file>
+        <file>detective.png</file>
+    </qresource>
+</RCC>
